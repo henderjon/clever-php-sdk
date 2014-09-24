@@ -1,8 +1,6 @@
 # henderjon/clever-php-sdk
 
-Argv is a class to parse an ARGV style array. It will parse an array for -flags and
--key=value pairs. It supports the following syntax: "-f" "-flag" "-key=value"
-"-key value". Using one or more dashes has no effect.
+An experimental re-write of the Clever PHP SDK.
 
 Peruse the tests or, if present, the examples directory to see usage.
 
